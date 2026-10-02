@@ -3,14 +3,15 @@ Remove the little roll text under tables that are rollable on site
 - Can these tables be inserted into Harpy?
 - Perhaps some Python or AI magic can make it work
 Create random tables out of tables from entities
+ - hex tools done
+ - adventuring site done
 Remove outside links from entities
-Create a comprehensive backup
 Remove the second title of entities
 Reimport creature sheet
 Rebuild character sheet
 Make creature sheet functional
 Make character sheet functional
-Explore hexcrawlingJust some text.
+Explore hexcrawling.
 Adjust the table columns not to cut the text off
 
 
@@ -25,3 +26,11 @@ Random Mause Generator
 -- Make a mouse
 - removed the link to random mouse generator (https://mausritter.com/mouse/)
 - add this functionality to Harpy.gg
+
+Mundane weapon and armor in Useful treasure table
+-- Adventure site toolbox
+- add rolls to the entries to automate stuff?
+
+Add creatures to the random room tables
+-- Adventure site toolbox
+- the tables that generate randomly rooms for a dungeon needs creatures
