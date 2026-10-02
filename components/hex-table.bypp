@@ -1,0 +1,325 @@
+{
+  "version": 25,
+  "format": "bypp",
+  "name": "Tables",
+  "exportedAt": "2026-09-29T05:35:22.743Z",
+  "bundleVersion": "1",
+  "license": "ARR",
+  "licenseVersion": "4.0",
+  "attribution": {
+    "authorName": "MattMatej#3065"
+  },
+  "randomTables": [
+    {
+      "uid": "k7P2-9mX1-vN8Q-4tR0",
+      "title": "Starting adventure site hook",
+      "diceFormula": "1d6",
+      "rows": [
+        {
+          "uid": "a1B2-c3D4-e5F6-g7H8",
+          "range": 0,
+          "content": "Searching for a lost family member"
+        },
+        {
+          "uid": "i9J0-k1L2-m3N4-o5P6",
+          "range": 0,
+          "content": "Investigating on orders of a noblemouse"
+        },
+        {
+          "uid": "q7R8-s9T0-u1V2-w3X4",
+          "range": 0,
+          "content": "Mouse wizard requires a certain spell component"
+        },
+        {
+          "uid": "y5Z6-a7B8-c9D0-e1F2",
+          "range": 0,
+          "content": "Site is lair of a creature harassing a settlement"
+        },
+        {
+          "uid": "g3H4-i5J6-k7L8-m9N0",
+          "range": 0,
+          "content": "Following an inherited treasure map"
+        },
+        {
+          "uid": "o1P2-q3R4-s5T6-u7V8",
+          "range": 0,
+          "content": "Seeking shelter from a terrible storm"
+        }
+      ]
+    },
+    {
+      "uid": "w9X0-y1Z2-a3B4-c5D6",
+      "title": "Hex type",
+      "diceFormula": "1d6",
+      "rows": [
+        {
+          "uid": "e7F8-g9H0-i1J2-k3L4",
+          "range": 2,
+          "content": "Countryside"
+        },
+        {
+          "uid": "m5N6-o7P8-q9R0-s1T2",
+          "range": 2,
+          "content": "Forest"
+        },
+        {
+          "uid": "u3V4-w5X6-y7Z8-a9B0",
+          "range": 0,
+          "content": "River"
+        },
+        {
+          "uid": "c1D2-e3F4-g5H6-i7J8",
+          "range": 0,
+          "content": "Human town"
+        }
+      ]
+    },
+    {
+      "uid": "l1M2-n3O4-p5Q6-r7S8",
+      "title": "Landmarks",
+      "diceFormula": "1d20",
+      "rows": [
+        { "uid": "t9U0-v1W2-x3Y4-z5A6", "range": 0, "content": "Anthill / Abandoned shack / Canal lock / Abandoned car" },
+        { "uid": "b7C8-d9E0-f1G2-h3I4", "range": 0, "content": "Beech, lightning split / Bright clearing / Converging tributaries / Apartment balcony" },
+        { "uid": "j5K6-l7M8-n9O0-p1Q2", "range": 0, "content": "Bone-white tree / Cascading waterfalls / Draping willow / Blackberry hedge" },
+        { "uid": "r3S4-t5U6-v7W8-x9Y0", "range": 0, "content": "Cow skeleton / Cliff face / Eroded riverbank / Busy road" },
+        { "uid": "z1A2-b3C4-d5E6-f7G8", "range": 0, "content": "Field of flowers / Cold, fresh spring / Fallen tree crossing / Drainpipe outlet" },
+        { "uid": "h9I0-j1K2-l3M4-n5O6", "range": 0, "content": "Field of wheat / Dense underbrush / High waterfall / Dumped furniture" },
+        { "uid": "p7Q8-r9S0-t1U2-v3W4", "range": 0, "content": "Hedge row / Face in ancient oak / Huge boulder / Greenhouse" },
+        { "uid": "x5Y6-z7A8-b9C0-d1E2", "range": 0, "content": "Hollow tree stump / Fox hole / Huge concrete dam / Mouse ruins" },
+        { "uid": "f3G4-h5I6-j7K8-l9M0", "range": 0, "content": "Huge flat rock / Grove of ferns / Isolated island / Newly built house" },
+        { "uid": "n1O2-p3Q4-r5S6-t7U8", "range": 0, "content": "Lily-lined pond / Hollow tree stump / Muddy flats / Overgrown garden bed" },
+        { "uid": "v9W0-x1Y2-z3A4-b5C6", "range": 0, "content": "Massive fallen tree / Huge pine tree / Rocky rapids / Pigeon nest" },
+        { "uid": "d7E8-f9G0-h1I2-j3K4", "range": 0, "content": "Old craggy oak / Human walking track / Row of dead trees / Pile of trash" },
+        { "uid": "l5M6-n7O8-p9Q0-r1S2", "range": 0, "content": "Old farmhouse / Human-made clearing / Silty dam / Rocky riverbed" },
+        { "uid": "t3U4-v5W6-x7Y8-z9A0", "range": 0, "content": "Quiet dirt road / Meandering brook / Stepping-stones / Shopping trolley" },
+        { "uid": "b1C2-d3E4-f5G6-h7I8", "range": 0, "content": "Rabbit warren / Overgrown ruins / Stone bridge / Stagnant pond" },
+        { "uid": "j9K0-l1M2-n3O4-p5Q6", "range": 0, "content": "Sparrow nest / Ring of stones / Stony shallows / Steel bridge" },
+        { "uid": "r7S8-t9U0-v1W2-x3Y4", "range": 0, "content": "Stand of pine trees / Rocky outcropping / Submerged trash / Trash-filled skip" },
+        { "uid": "z5A6-b7C8-d9E0-f1G2", "range": 0, "content": "Steep hill / Sunken hollow / Sunken barge / Tree-lined footpath" },
+        { "uid": "h3I4-j5K6-l7M8-n9O0", "range": 0, "content": "Stone wall / Tangle of roots / Twisted roots / Underground car park" },
+        { "uid": "p1Q2-r3S4-t5U6-v7W8", "range": 0, "content": "Tangle of fig roots / Termite-riddled tree / Wooden bridge / Woodshed" }
+      ]
+    },
+    {
+      "uid": "m2N3-o4P5-q6R7-s8T9",
+      "title": "Landmark detail",
+      "diceFormula": "1d41",
+      "rows": [
+        { "uid": "u0V1-w2X3-y4Z5-a6B7", "range": 0, "content": "Mouse settlement..." },
+        { "uid": "c8D9-e0F1-g2H3-i4J5", "range": 0, "content": "Small mouse farm (What threatens their crops?)" },
+        { "uid": "k6L7-m8N9-o0P1-q2R3", "range": 0, "content": "Noblemouse’s castle (What does it defend against?)" },
+        { "uid": "s4T5-u6V7-w8X9-y0Z1", "range": 0, "content": "Friendly mouse roadhouse (What is in the basement?)" },
+        { "uid": "a2B3-c4D5-e6F7-g8H9", "range": 0, "content": "Mouse hunting lodge (What is their quarry?)" },
+        { "uid": "i0J1-k2L3-m4N5-o6P7", "range": 0, "content": "Mining outpost (What have they uncovered?)" },
+        { "uid": "q8R9-s0T1-u2V3-w4X5", "range": 0, "content": "Mouse hermit’s hut (Why do they shun society?)" },
+        { "uid": "y6Z7-a8B9-c0D1-e2F3", "range": 0, "content": "Natural caves (What is living here?)" },
+        { "uid": "g4H5-i6J7-k8L9-m0N1", "range": 0, "content": "Hedge-knight’s tower (What is their quest?)" },
+        { "uid": "o2P3-q4R5-s6T7-u8V9", "range": 0, "content": "Songbird’s nest (What sad tales do they sing of?)" },
+        { "uid": "w0X1-y2Z3-a4B5-c6D7", "range": 0, "content": "Tribe of huge, peaceful beasts (What do they fear?)" },
+        { "uid": "e8F9-g0H1-i2J3-k4L5", "range": 0, "content": "Rat bandit hideout (Who do they prey on?)" },
+        { "uid": "m6N7-o8P9-q0R1-s2T3", "range": 0, "content": "Crow coven’s spire (What spells do they caw?)" },
+        { "uid": "u4V5-w6X7-y8Z9-a0B1", "range": 0, "content": "Hive of insects (What do they hunger for?)" },
+        { "uid": "c2D3-e4F5-g6H7-i8J9", "range": 0, "content": "Den of a great predator (What treasure do they guard?)" },
+        { "uid": "k0L1-m2N3-o4P5-q6R7", "range": 0, "content": "Frog fortress (What lies hidden in the dungeon?)" },
+        { "uid": "s8T9-u0V1-w2X3-y4Z5", "range": 0, "content": "Mouse wizard’s tower (What is spell almost finished?)" },
+        { "uid": "a6B7-c8D9-e0F1-g2H3", "range": 0, "content": "Dangerous natural feature (How can it be avoided?)" },
+        { "uid": "i4J5-k6L7-m8N9-o0P1", "range": 0, "content": "Lonely shrine (Who maintains it? What do they worship?)" },
+        { "uid": "q2R3-s4T5-u6V7-w8X9", "range": 0, "content": "Noblemouse’s manor (Why was it abandoned?)" },
+        { "uid": "y0Z1-a2B3-c4D5-e6F7", "range": 0, "content": "Abandoned settlement (What clues did they leave?)" },
+        { "uid": "g8H9-i0J1-k2L3-m4N5", "range": 0, "content": "Ruined watchtower (What did it guard from?)" },
+        { "uid": "o6P7-q8R9-s0T1-u2V3", "range": 0, "content": "Natural feature, peaceful and safe (Who gathers here?)" },
+        { "uid": "w4X5-y6Z7-a8B9-c0D1", "range": 0, "content": "Natural feature, out of place (How did it form?)" },
+        { "uid": "e2F3-g4H5-i6J7-k8L9", "range": 0, "content": "Rickety bridge (What does it cross over?)" },
+        { "uid": "m0N1-o2P3-q4R5-s6T7", "range": 0, "content": "Ancient bat cult temple (What was summoned?)" },
+        { "uid": "u8V9-w0X1-y2Z3-a4B5", "range": 0, "content": "Faerie ring (What business do the faeries have here?)" },
+        { "uid": "c6D7-e8F9-g0H1-i2J3", "range": 0, "content": "Beetle graveyard (What do the ghosts want?)" },
+        { "uid": "k4L5-m6N7-o8P9-q0R1", "range": 0, "content": "Mouse witch’s hut (What does she brew?)" },
+        { "uid": "s2T3-u4V5-w6X7-y8Z9", "range": 0, "content": "Small, deep pond (What is at the bottom?)" },
+        { "uid": "a0B1-c2D3-e4F5-g6H7", "range": 0, "content": "Out-of-season plantlife (Why are they growing here?)" },
+        { "uid": "i8J9-k0L1-m2N3-o4P5", "range": 0, "content": "Owl sorcerer’s nest (What are they searching for?)" },
+        { "uid": "q6R7-s8T9-u0V1-w2X3", "range": 0, "content": "Strange magical anomaly (Why is it spreading?)" },
+        { "uid": "y4Z5-a6B7-c8D9-e0F1", "range": 0, "content": "Crashed Lilliputian airship (How can it be repaired?)" },
+        { "uid": "g2H3-i4J5-k6L7-m8N9", "range": 0, "content": "Humming stone (What happens when touched?)" },
+        { "uid": "o0P1-q2R3-s4T5-u6V7", "range": 0, "content": "Completely lifeless (What disaster has occurred?)" },
+        { "uid": "w8X9-y0Z1-a2B3-c4D5", "range": 0, "content": "Regularly used by humans (What do they do here?)" },
+        { "uid": "e6F7-g8H9-i0J1-k2L3", "range": 0, "content": "Damaged by humans (What have they done?)" },
+        { "uid": "m4N5-o6P7-q8R9-s0T1", "range": 0, "content": "Ancient ruins of a past civilisation (Who built this?)" },
+        { "uid": "u2V3-w4X5-y6Z7-a8B9", "range": 0, "content": "Cat lord’s hunting ground (What trophies remain?)" },
+        { "uid": "c0D1-e2F3-g4H5-i6J7", "range": 0, "content": "Repurposed human construction (How is it used?)" }
+      ]
+    },
+    {
+      "uid": "k8L9-m0N1-o2P3-q4R5",
+      "title": "Settlement size",
+      "diceFormula": "1d6",
+      "rows": [
+        { "uid": "s6T7-u8V9-w0X1-y2Z3", "range": 0, "content": "Farm/manor (1-3 families)" },
+        { "uid": "a4B5-c6D7-e8F9-g0H1", "range": 0, "content": "Crossroads (3-5 families)" },
+        { "uid": "i2J3-k4L5-m6N7-o8P9", "range": 0, "content": "Hamlet (50-150 mice)" },
+        { "uid": "q0R1-s2T3-u4V5-w6X7", "range": 0, "content": "Village (150-300 mice)" },
+        { "uid": "y8Z9-a0B1-c2D3-e4F5", "range": 0, "content": "Town (300-1000 mice)" },
+        { "uid": "g6H7-i8J9-k0L1-m2N3", "range": 0, "content": "City (1000+ mice)" }
+      ]
+    },
+    {
+      "uid": "o4P5-q6R7-s8T9-u0V1",
+      "title": "Governance (d6 + Settlement size (1 for Farm, 6 for City))",
+      "diceFormula": "1d6",
+      "rows": [
+        { "uid": "w2X3-y4Z5-a6B7-c8D9", "range": 2, "content": "Guided by village elders" },
+        { "uid": "e0F1-g2H3-i4J5-k6L7", "range": 2, "content": "Administered by a knight or lower-caste lord" },
+        { "uid": "m8N9-o0P1-q2R3-s4T5", "range": 2, "content": "Organised by a guild committee" },
+        { "uid": "u6V7-w8X9-y0Z1-a2B3", "range": 2, "content": "Free settlement, governed by council of burghermice" },
+        { "uid": "c4D5-e6F7-g8H9-i0J1", "range": 2, "content": "House of an upper caste noblemouse" },
+        { "uid": "k2L3-m4N5-o6P7-q8R9", "range": 0, "content": "Seat of baronial power" }
+      ]
+    },
+    {
+      "uid": "s0T1-u2V3-w4X5-y6Z7",
+      "title": "Settlement details - Inhabitants",
+      "diceFormula": "1d20",
+      "rows": [
+        { "uid": "a8B9-c0D1-e2F3-g4H5", "range": 0, "content": "Shave elaborate patterns in their fur" },
+        { "uid": "i6J7-k8L9-m0N1-o2P3", "range": 0, "content": "Intoxicated by strange plants" },
+        { "uid": "q4R5-s6T7-u8V9-w0X1", "range": 0, "content": "Wary of doing business with outsiders" },
+        { "uid": "y2Z3-a4B5-c6D7-e8F9", "range": 0, "content": "Curious for news from afar" },
+        { "uid": "g0H1-i2J3-k4L5-m6N7", "range": 0, "content": "Believe grooming their fur is bad luck" },
+        { "uid": "o8P9-q0R1-s2T3-u4V5", "range": 0, "content": "Wear finely embroidered clothes" },
+        { "uid": "w6X7-y8Z9-a0B1-c2D3", "range": 0, "content": "Brew honey-mead, flavoured with pungent herbs" },
+        { "uid": "e4F5-g6H7-i8J9-k0L1", "range": 0, "content": "Cover their faces with long hoods" },
+        { "uid": "m2N3-o4P5-q6R7-s8T9", "range": 0, "content": "Impoverished by a cat lord’s tithes" },
+        { "uid": "u0V1-w2X3-y4Z5-a6B7", "range": 0, "content": "Ceremonially crop their tails" },
+        { "uid": "c8D9-e0F1-g2H3-i4J5", "range": 0, "content": "Brave hunters of large beasts" },
+        { "uid": "k6L7-m8N9-o0P1-q2R3", "range": 0, "content": "All descended from single matriarch" },
+        { "uid": "s4T5-u6V7-w8X9-y0Z1", "range": 0, "content": "Bake delicious berry pies" },
+        { "uid": "a2B3-c4D5-e6F7-g8H9", "range": 0, "content": "Lab escapees, naive about the world" },
+        { "uid": "i0J1-k2L3-m4N5-o6P7", "range": 0, "content": "Spend their days lazing by a stream" },
+        { "uid": "q8R9-s0T1-u2V3-w4X5", "range": 0, "content": "Long-standing blood feud with another settlement" },
+        { "uid": "y6Z7-a8B9-c0D1-e2F3", "range": 0, "content": "Dig grand tunnels, overseen by the guild" },
+        { "uid": "g4H5-i6J7-k8L9-m0N1", "range": 0, "content": "Wear large, wide-brimmed hats" },
+        { "uid": "o2P3-q4R5-s6T7-u8V9", "range": 0, "content": "Have laws and customs confusing to outsiders" },
+        { "uid": "w0X1-y2Z3-a4B5-c6D7", "range": 0, "content": "On friendly terms with a predator" }
+      ]
+    },
+    {
+      "uid": "e8F9-g0H1-i2J3-k4L5",
+      "title": "Notable feature",
+      "diceFormula": "1d20",
+      "rows": [
+        { "uid": "m6N7-o8P9-q0R1-s2T3", "range": 0, "content": "Maze of defensive, trap-filled tunnels" },
+        { "uid": "u4V5-w6X7-y8Z9-a0B1", "range": 0, "content": "Exceedingly comfortable, well-appointed inn" },
+        { "uid": "c2D3-e4F5-g6H7-i8J9", "range": 0, "content": "Shrine carved of black wood" },
+        { "uid": "k0L1-m2N3-o4P5-q6R7", "range": 0, "content": "Meditative mushroom garden" },
+        { "uid": "s8T9-u0V1-w2X3-y4Z5", "range": 0, "content": "Cow skull, repurposed as a guildhouse" },
+        { "uid": "a6B7-c8D9-e0F1-g2H3", "range": 0, "content": "Mess of closely packed shanties" },
+        { "uid": "i4J5-k6L7-m8N9-o0P1", "range": 0, "content": "Neat rows of hanging wooden houses" },
+        { "uid": "q2R3-s4T5-u6V7-w8X9", "range": 0, "content": "Ornate gate, guarded by statues" },
+        { "uid": "y0Z1-a2B3-c4D5-e6F7", "range": 0, "content": "Secret bat cult temple" },
+        { "uid": "g8H9-i0J1-k2L3-m4N5", "range": 0, "content": "Beetle racing rink" },
+        { "uid": "o6P7-q8R9-s0T1-u2V3", "range": 0, "content": "Storehouse, stocked with preserves" },
+        { "uid": "w4X5-y6Z7-a8B9-c0D1", "range": 0, "content": "Hidden riverboat dock" },
+        { "uid": "e2F3-g4H5-i6J7-k8L9", "range": 0, "content": "Crumbling marble palace, built by ancient mice" },
+        { "uid": "m0N1-o2P3-q4R5-s6T7", "range": 0, "content": "Scavenged human machine, working" },
+        { "uid": "u8V9-w0X1-y2Z3-a4B5", "range": 0, "content": "Wooden bridge connects the settlement" },
+        { "uid": "c6D7-e8F9-g0H1-i2J3", "range": 0, "content": "Unnervingly tall, twisting tower" },
+        { "uid": "k4L5-m6N7-o8P9-q0R1", "range": 0, "content": "Beautiful flower garden" },
+        { "uid": "s2T3-u4V5-w6X7-y8Z9", "range": 0, "content": "Pigeon rider’s roost" },
+        { "uid": "a0B1-c2D3-e4F5-g6H7", "range": 0, "content": "Overgrown statue of an ancient hero" },
+        { "uid": "i8J9-k0L1-m2N3-o4P5", "range": 0, "content": "Spiral stairwell, leading deep underground" }
+      ]
+    },
+    {
+      "uid": "q6R7-s8T9-u0V1-w2X3",
+      "title": "Industry",
+      "diceFormula": "1d20",
+      "rows": [
+        { "uid": "y4Z5-a6B7-c8D9-e0F1", "range": 0, "content": "Farmers, tending to towering crops" },
+        { "uid": "g2H3-i4J5-k6L7-m8N9", "range": 0, "content": "Woodcutters, with saws and harnesses" },
+        { "uid": "o0P1-q2R3-s4T5-u6V7", "range": 0, "content": "Rough and scarred fishermice, with nets and rafts" },
+        { "uid": "w8X9-y0Z1-a2B3-c4D5", "range": 0, "content": "Dark and musty mushroom farm" },
+        { "uid": "e6F7-g8H9-i0J1-k2L3", "range": 0, "content": "Grains drying on every flat surface" },
+        { "uid": "m4N5-o6P7-q8R9-s0T1", "range": 0, "content": "Pungent cheese, cured for years" },
+        { "uid": "u2V3-w4X5-y6Z7-a8B9", "range": 0, "content": "Gardens of rare herbs. Drying racks are guarded" },
+        { "uid": "c0D1-e2F3-g4H5-i6J7", "range": 0, "content": "Hive of bees and their veiled keepers" },
+        { "uid": "k8L9-m0N1-o2P3-q4R5", "range": 0, "content": "Merchants and traders, often in need of guards" },
+        { "uid": "s6T7-u8V9-w0X1-y2Z3", "range": 0, "content": "Stonemasons, working a nearby quarry" },
+        { "uid": "a4B5-c6D7-e8F9-g0H1", "range": 0, "content": "Flour mill, driven by a large water-wheel" },
+        { "uid": "i2J3-k4L5-m6N7-o8P9", "range": 0, "content": "Deep mine for iron, silver or tin" },
+        { "uid": "q0R1-s2T3-u4V5-w6X7", "range": 0, "content": "Keep silkworms and weave fine cloth" },
+        { "uid": "y8Z9-a0B1-c2D3-e4F5", "range": 0, "content": "Expert explorers of caves and tunnels" },
+        { "uid": "g6H7-i8J9-k0L1-m2N3", "range": 0, "content": "Kiln-fired pottery, glazed in cheerful colours" },
+        { "uid": "o4P5-q6R7-s8T9-u0V1", "range": 0, "content": "Wool mill, draped in bright cloth" },
+        { "uid": "w2X3-y4Z5-a6B7-c8D9", "range": 0, "content": "Excellent school, rowdy pupils" },
+        { "uid": "e0F1-g2H3-i4J5-k6L7", "range": 0, "content": "Bustling, well-stocked market" },
+        { "uid": "m8N9-o0P1-q2R3-s4T5", "range": 0, "content": "Smelly scavenged trash pile, carefully picked over" },
+        { "uid": "u6V7-w8X9-y0Z1-a2B3", "range": 0, "content": "Beautiful furniture of carved and polished wood" }
+      ]
+    },
+    {
+      "uid": "c4D5-e6F7-g8H9-i0J1",
+      "title": "Event",
+      "diceFormula": "1d20",
+      "rows": [
+        { "uid": "k2L3-m4N5-o6P7-q8R9", "range": 0, "content": "Disaster, everyone packing to leave" },
+        { "uid": "s0T1-u2V3-w4X5-y6Z7", "range": 0, "content": "Wedding, streets decked in flowers" },
+        { "uid": "a8B9-c0D1-e2F3-g4H5", "range": 0, "content": "Preparing for grand seasonal feast" },
+        { "uid": "i6J7-k8L9-m0N1-o2P3", "range": 0, "content": "An illness has struck" },
+        { "uid": "q4R5-s6T7-u8V9-w0X1", "range": 0, "content": "Storehouse has been plundered by insects" },
+        { "uid": "y2Z3-a4B5-c6D7-e8F9", "range": 0, "content": "Market day, farmers flock to the settlement" },
+        { "uid": "g0H1-i2J3-k4L5-m6N7", "range": 0, "content": "Mice are at each other’s throats" },
+        { "uid": "o8P9-q0R1-s2T3-u4V5", "range": 0, "content": "Warband forming to defeat a beast" },
+        { "uid": "w6X7-y8Z9-a0B1-c2D3", "range": 0, "content": "Several children have gone missing" },
+        { "uid": "e4F5-g6H7-i8J9-k0L1", "range": 0, "content": "Noblemouse makes a frivolous demand" },
+        { "uid": "m2N3-o4P5-q6R7-s8T9", "range": 0, "content": "Traveling theatre troupe arrives" },
+        { "uid": "u0V1-w2X3-y4Z5-a6B7", "range": 0, "content": "Funeral, streets thick with smoke" },
+        { "uid": "c8D9-e0F1-g2H3-i4J5", "range": 0, "content": "Conman whips up an irrational scheme" },
+        { "uid": "k6L7-m8N9-o0P1-q2R3", "range": 0, "content": "Pet beetle gone mad, attacking mice" },
+        { "uid": "s4T5-u6V7-w8X9-y0Z1", "range": 0, "content": "Faerie emissary with an impossible request" },
+        { "uid": "a2B3-c4D5-e6F7-g8H9", "range": 0, "content": "Strangely quick-growing plant nearby" },
+        { "uid": "i0J1-k2L3-m4N5-o6P7", "range": 0, "content": "Valuable heirloom has a been stolen" },
+        { "uid": "q8R9-s0T1-u2V3-w4X5", "range": 0, "content": "Cat lord demands a heavy tithe" },
+        { "uid": "y6Z7-a8B9-c0D1-e2F3", "range": 0, "content": "Coming of age ceremony for the young mice" },
+        { "uid": "g4H5-i6J7-k8L9-m0N1", "range": 0, "content": "Wizard tower arrives on tortoise-back" }
+      ]
+    },
+    {
+      "uid": "o2P3-q4R5-s6T7-u8V9",
+      "title": "Settlement name seeds",
+      "diceFormula": "1d12",
+      "rows": [
+        { "uid": "w0X1-y2Z3-a4B5-c6D7", "range": 0, "content": "Oaks / Swamp / thorpe / stand" },
+        { "uid": "e8F9-g0H1-i2J3-k4L5", "range": 0, "content": "Berry / Owl / ville / hill" },
+        { "uid": "m6N7-o8P9-q0R1-s2T3", "range": 0, "content": "Willow / Fox / mill / tower" },
+        { "uid": "u4V5-w6X7-y8Z9-a0B1", "range": 0, "content": "Stump / Acorn / dale / farm" },
+        { "uid": "c2D3-e4F5-g6H7-i8J9", "range": 0, "content": "Pine / Copper / grove / bridge" },
+        { "uid": "k0L1-m2N3-o4P5-q6R7", "range": 0, "content": "Moon / Robber / town / gate" },
+        { "uid": "s8T9-u0V1-w2X3-y4Z5", "range": 0, "content": "Green / Colby / vale / creek" },
+        { "uid": "a6B7-c8D9-e0F1-g2H3", "range": 0, "content": "Black / Drain / seed / pond" },
+        { "uid": "i4J5-k6L7-m8N9-o0P1", "range": 0, "content": "Stone / Rose / ashe / nest" },
+        { "uid": "q2R3-s4T5-u6V7-w8X9", "range": 0, "content": "Hill / Copper / bush / ford" },
+        { "uid": "y0Z1-a2B3-c4D5-e6F7", "range": 0, "content": "Fig / Friend / stitch / grave" },
+        { "uid": "g8H9-i0J1-k2L3-m4N5", "range": 0, "content": "Apple / Trunk / shine / burn" }
+      ]
+    },
+    {
+      "uid": "o8P9-q0R1-s2T3-u4V5-alt",
+      "title": "Taverns and inns",
+      "diceFormula": "1d12",
+      "rows": [
+        { "uid": "w6X7-y8Z9-a0B1-c2D3-alt", "range": 0, "content": "White / Beetle / Spiced baked carrot" },
+        { "uid": "e4F5-g6H7-i8J9-k0L1-alt", "range": 0, "content": "Green / Fox / Boiled worm broth" },
+        { "uid": "m2N3-o4P5-q6R7-s8T9-alt", "range": 0, "content": "Black / Wedge / Blackberry pie" },
+        { "uid": "u0V1-w2X3-y4Z5-a6B7-alt", "range": 0, "content": "Red / Kernel / Pungent aged cheese" },
+        { "uid": "c8D9-e0F1-g2H3-i4J5-alt", "range": 0, "content": "Silver / Rat / Barley porridge" },
+        { "uid": "k6L7-m8N9-o0P1-q2R3-alt", "range": 0, "content": "Crooked / Cheese / Thick river-fish steak" },
+        { "uid": "s4T5-u6V7-w8X9-y0Z1-alt", "range": 0, "content": "Friendly / Eagle / Baked apple" },
+        { "uid": "a2B3-c4D5-e6F7-g8H9-alt", "range": 0, "content": "Hidden / Worm / Fried, crumbed insect legs" },
+        { "uid": "i0J1-k2L3-m4N5-o6P7-alt", "range": 0, "content": "Wiley / Bee / Fresh buttered bread" },
+        { "uid": "q8R9-s0T1-u2V3-w4X5-alt", "range": 0, "content": "Glass / Lantern / Scavenged candy" },
+        { "uid": "y6Z7-a8B9-c0D1-e2F3-alt", "range": 0, "content": "Thorny / Rose / Honey-roasted seeds" },
+        { "uid": "g4H5-i6J7-k8L9-m0N1-alt", "range": 0, "content": "Broken / Knight / Mushroom stew" }
+      ]
+    }
+  ]
+}
