@@ -1,3 +1,6 @@
+CURRENT TASK
+Hex generator - finished name seeds
+
 Add the roll options to tables in entities
 Remove the little roll text under tables that are rollable on site
 - Can these tables be inserted into Harpy?
@@ -22,7 +25,7 @@ Adventure site Generator
 - removed the link to adventure site generator (https://mausritter.com/adventure-site/)
 - can that functionality be recreated in Harpy.gg?
 
-Random Mause Generator
+Random Mouse Generator
 -- Make a mouse
 - removed the link to random mouse generator (https://mausritter.com/mouse/)
 - add this functionality to Harpy.gg
@@ -34,3 +37,9 @@ Mundane weapon and armor in Useful treasure table
 Add creatures to the random room tables
 -- Adventure site toolbox
 - the tables that generate randomly rooms for a dungeon needs creatures
+
+Remove mentions where unnesseceray
+- for example, in Magic Swords in Adventure site toolkit
+
+Add Creature variants as sheet element
+- make the random variations of each creature appear on the sheet
